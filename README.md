@@ -10,8 +10,13 @@ A clean, student-friendly template for your course project README.
 This project gives you hands-on experience with data cleaning, exploration, modeling, and interpretation across multiple learning paradigms.
 
 ---
+## 📚 Read more about dataset
+- **student-mat_.csv file:** https://archive.ics.uci.edu/dataset/320/student+performance
+- **obesity_prediction.csv file:** https://www.kaggle.com/datasets/ruchikakumbhar/obesity-prediction
+- **cal_fire_clustering.csv file:** https://www.kaggle.com/datasets/vijayveersingh/the-california-wildfire-data
 
-## ✅ Tasks (Choose at least two)
+---
+## ✅ Tasks 
 
 ### 1) Regression — Predict Final Grade
 Use at least two methods chosen from: **Linear Regression, Ridge, Lasso, Decision Trees, Neural Networks**.
