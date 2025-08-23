@@ -34,3 +34,68 @@ Apply **K-Means** and **Hierarchical Clustering**.
 
 - **Dataset:** [Download link 3](#) · [Dataset description](#)  
 - **Deliverables:** feature selection/scaling, EDA, cluster selection (elbow/silhouette), dendrograms, cluster profiling & insights.
+
+## 🔎 What to Document (for each selected task)
+
+### 📌 Data Description
+- Number of samples
+- Number of features
+- Feature types (numeric, categorical, text)
+- Target definition
+
+### 🧹 Preprocessing
+- Null handling
+- Outliers
+- Scaling/encoding
+- Train/validation/test splits
+- Class imbalance strategies
+
+### 📊 Exploratory Data Analysis (EDA)
+- Key plots: distributions, correlations, pair plots, box/violin plots
+- Notable patterns
+
+### 🏗️ Model Development
+- Algorithms chosen
+- Hyperparameters tried
+- Selection strategy (grid/random search, cross-validation)
+- Rationale for choices
+
+### 📈 Performance
+- Metrics (see cheat-sheet below)
+- Learning curves (if helpful)
+
+### 🔍 Interpretation
+- Feature importance
+- Coefficients
+- SHAP/partial dependence (if used)
+- Why one model outperformed another
+
+### ✅ Conclusion
+- Key findings
+- Limitations
+- Future work
+---
+
+## 📈 Metrics Cheat-Sheet
+
+### Regression
+- MAE
+- RMSE
+- R²
+- Residual plots
+
+### Classification
+- Accuracy
+- Precision
+- Recall
+- F1
+- ROC-AUC
+- PR-AUC
+- Confusion matrix
+
+### Clustering
+- Silhouette score
+- Davies–Bouldin index
+- Elbow method
+- Cluster profiles
+---
