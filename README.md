@@ -99,7 +99,7 @@ Apply **K-Means** and **Hierarchical Clustering**.
 - Elbow method
 - Cluster profiles
 ---
-### (1) Technical Report — `.docx`
+### (1) For report — `.docx` file
 Include:
 - Data description  
 - Data preprocessing (nulls, outliers, scaling)  
