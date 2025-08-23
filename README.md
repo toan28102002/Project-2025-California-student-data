@@ -99,3 +99,13 @@ Apply **K-Means** and **Hierarchical Clustering**.
 - Elbow method
 - Cluster profiles
 ---
+### (1) Technical Report — `.docx`
+Include:
+- Data description  
+- Data preprocessing (nulls, outliers, scaling)  
+- Exploratory data analysis (plots + findings)  
+- Model development (hyperparameters & rationale)  
+- Performance evaluation (metrics & comparisons)  
+- Interpretation (why models differ; important features; cluster reasoning)  
+- Conclusions (summary & takeaways)  
+- References (datasets, libraries, papers)  
